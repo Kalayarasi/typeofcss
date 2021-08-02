@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(238, 240, 140);
+}
+.heading1{
+    margin-left: 12%;
+    text-decoration: underline;
+}
+.para1{
+         color:brown;
+         font-size: 18px;
+         margin-left: 10%;
+}
+.black{
+    width: 20%;
+    border-radius: 30px;
+    margin-left: 10%;
+}
